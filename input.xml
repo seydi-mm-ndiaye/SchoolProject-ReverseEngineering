@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vente>
+  <Entite_Association>
+    <Client NumClient="001" prenom="Fatim" nom="Diop" adresse="Yoff"></Client>
+    <Commande NumCommande="003" date="11/3/2012" quantite="12"></Commande>
+    <Produit NumPrduit="023" nomProduit="Chemise"></Produit>
+  </Entite_Association>
+  <Entite_Association>
+    <Client NumClient="003" prenom="Abdou" nom="Pene" adresse="Medina"></Client>
+    <Commande NumCommande="035" date="12/7/2015" quantite="2"></Commande>
+    <Produit NumPrduit="046" nomProduit="Sac"></Produit>
+  </Entite_Association>
+  <Entite_Association>
+    <Client NumClient="043" prenom="Abdou" nom="Pene" adresse="Medina"></Client>
+    <Commande NumCommande="035" date="12/7/2015" quantite="2"></Commande>
+    <Produit NumPrduit="046" nomProduit="Sac"></Produit>
+  </Entite_Association>
+</Vente>
+
