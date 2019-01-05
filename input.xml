@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Vente>
   <Entite_Association>
-    <Client NumClient="001" prenom="Fatim" nom="Diop" adresse="Yoff"></Client>
-    <Commande NumCommande="003" date="11/3/2012" quantite="12"></Commande>
-    <Produit NumPrduit="023" nomProduit="Chemise"></Produit>
+    <Client NumClient="001" prenom="Fatim" nom="Diop" adresse="Yoff"/>
+    <Commande NumCommande="003" date="11/3/2012" quantite="12"/>
+    <Produit NumPrduit="023" nomProduit="Chemise"/>
   </Entite_Association>
   <Entite_Association>
-    <Client NumClient="003" prenom="Abdou" nom="Pene" adresse="Medina"></Client>
-    <Commande NumCommande="035" date="12/7/2015" quantite="2"></Commande>
-    <Produit NumPrduit="046" nomProduit="Sac"></Produit>
+    <Client NumClient="003" prenom="Abdou" nom="Pene" adresse="Medina"/>
+    <Commande NumCommande="035" date="12/7/2015" quantite="2"/>
+    <Produit NumPrduit="046" nomProduit="Sac"/>
   </Entite_Association>
   <Entite_Association>
-    <Client NumClient="043" prenom="Abdou" nom="Pene" adresse="Medina"></Client>
-    <Commande NumCommande="035" date="12/7/2015" quantite="2"></Commande>
-    <Produit NumPrduit="046" nomProduit="Sac"></Produit>
+    <Client NumClient="043" prenom="Seydi" nom="Pene" adresse="Medina"/>
+    <Commande NumCommande="075" date="16/7/2011" quantite="8"/>
+    <Produit NumPrduit="096" nomProduit="Ordinateur"/>
+  </Entite_Association>
+  <Entite_Association>
+    <Client NumClient="043" prenom="Seydi" nom="Pene" adresse="Medina"/>
+    <Commande NumCommande="075" date="16/7/2011" quantite="8"/>
+    <Produit NumPrduit="096" nomProduit="Ordinateur"/>
   </Entite_Association>
 </Vente>
 

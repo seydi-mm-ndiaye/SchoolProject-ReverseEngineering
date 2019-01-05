@@ -1,0 +1,21 @@
+{"Vente":{
+   "entite_association":[
+     { "Client":{"NumClient":"004", "prenom":"balla", "nom":"ba", "adresse":"Foire"},
+      "Commande":{"NumCommande":"678", "date":"12/4/2018", "quantite":"3"},
+      "Produit":{"NumProduit":"234", "NomProduit":"montre"} 
+      },
+      {"Client":{"NumClient":"034" , "prenom":"abdou", "nom":"cisse", "adresse":"Rufisque"},
+      "Commande":{"NumCommande":"978", "date":"21/3/2018", "quantite":"2"},
+      "Produit":{"NumProduit":"270", "NomProduit":"ordinateur"} 
+      },
+      {"Client":{"NumClient":"204", "prenom":"amadou", "nom":"deme", "adresse":"Diamalaye"},
+      "Commande":{"NumCommande":"54", "date":"3/7/2018", "quantite":"5"},
+      "Produit":{"NumProduit":"76", "NomProduit":"chapelet"} 
+      },
+      {"Client":{"NumClient":"554", "prenom":"djibril", "nom":"ba", "adresse":"Grand-Yoff"},
+      "Commande":{"NumCommande":"38", "date":"5/9/2018", "quantite":"1"},
+      "Produit":{"NumProduit":"24", "NomProduit":"ballon"} 
+      }
+   ]
+  }
+}
