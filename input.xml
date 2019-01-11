@@ -15,10 +15,5 @@
     <Commande NumCommande="075" date="16/7/2011" quantite="8"/>
     <Produit NumPrduit="096" nomProduit="Ordinateur"/>
   </Entite_Association>
-  <Entite_Association>
-    <Client NumClient="043" prenom="Seydi" nom="Pene" adresse="Medina"/>
-    <Commande NumCommande="075" date="16/7/2011" quantite="8"/>
-    <Produit NumPrduit="096" nomProduit="Ordinateur"/>
-  </Entite_Association>
 </Vente>
 
