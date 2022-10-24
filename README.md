@@ -1,4 +1,4 @@
-# seydi_Alassane_Projet_BD
+# Database : Reverse engineering
 School project about reverse engineering for database's course. 
 
 Members : Seydi Mouhamadou Moustapha Ndiaye - Alassane Sow.
